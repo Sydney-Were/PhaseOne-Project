@@ -70,7 +70,7 @@ plt.tight_layout()
 plt.show()
 
 # Presentation pdf
-presentation pdf can be accessed through this link(https://docs.google.com/presentation/d/1TECMOduZlYuVE7jGFL1-mTtRlU6WAsm0/edit?usp=drive_link&ouid=114562565227732877556&rtpof=true&sd=true)
+presentation pdf can be accessed through this link : https://drive.google.com/file/d/1TvuN9ElHe9xd45XAtpOJ_kHQSWHQuhSc/view?usp=sharing
 
 # More representations on tableau
 https://public.tableau.com/app/profile/sydney.were/viz/Aviationvisualization/Story1?publish=yes
